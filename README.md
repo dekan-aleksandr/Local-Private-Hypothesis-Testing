@@ -5,6 +5,7 @@ Here, we reproduced some results from the paper and confirmed its conclusions. W
 
 Specifically, we analyze locally private chi-square tests for goodness of fit and independence testing.
 
+Original paper: http://proceedings.mlr.press/v80/gaboardi18a/gaboardi18a.pdf
 
 # Experiments 
 

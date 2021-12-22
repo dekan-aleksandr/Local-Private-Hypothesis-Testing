@@ -16,5 +16,6 @@ Specifically, we analyze locally private chi-square tests for goodness of fit an
 ![image-1.png](./Results/BitFlip_eta_01_d_4.png)
 ![image-1.png](./Results/BitFlip_eta_01_d_10.jpeg)
 ![image-1.png](./Results/BitFlip_eta_005_d_40.jpeg)
-# Results
+
+## Results
 

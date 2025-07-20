@@ -1,7 +1,7 @@
 # Local Private Hypothesis Testing
 
 # Intro 
-Here, we reproduced some results from the paper and confirmed its conclusions. We explored the design of private hypothesis tests in the local model, where each data entry isperturbed to ensure the privacy of each participant.
+Here, we reproduced some results from the paper and confirmed its conclusions. We explored the design of private hypothesis tests in the local model, where each data entry is perturbed to ensure the privacy of each participant.
 
 Specifically, we analyze locally private chi-square tests for goodness of fit and independence testing.
 
